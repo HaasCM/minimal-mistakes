@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "HaasCM.github.io"
 title_separator          : "-"
 name                     : "Cody Haas"
-description              : "An amazing website."
+description              : "My personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,19 +77,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Cody Haas"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "I'm a Software Developer working with RF analytics, high-level robotics, and full systems integration. I have interests in robotics, computer vision, and data analytics" 
+  location         : "Lexington Park, MD"
+  email            : "codymhaas@gmail.com"
+  uri              : "https://HaasCM.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/HaasCM"
   gitlab           :
   google_plus      :
   keybase          :
