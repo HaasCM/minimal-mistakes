@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Cody Haas"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a Software Developer working with RF analytics, high-level robotics, and full systems integration. I have interests in robotics, computer vision, and data analytics" 
+  bio              : "I'm a Software Developer working with RF analytics, high-level robotics, and full systems integration. I have interests in robotics, computer vision, and data analytics." 
   location         : "Lexington Park, MD"
   email            : "codymhaas@gmail.com"
   uri              : "https://HaasCM.github.io"
